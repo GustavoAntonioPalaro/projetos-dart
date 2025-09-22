@@ -27,12 +27,15 @@ void main() {
     switch(operacao) {
     case "+":
     soma();
+    break;
 
     case "-":
     subtracao();
+    break;
 
     case "*":
     multiplicacao();
+    break;
 
     case "/":
     divisao();
